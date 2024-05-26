@@ -1,1 +1,1 @@
-TBL = {}
+ConfigTbl = {}

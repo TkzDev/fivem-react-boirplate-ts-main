@@ -1,7 +1,6 @@
-import React, { useState } from "react";
-import { fetchNui } from "../utils/fetchNui";
-import "../Global.css"
 import { Button } from "@/components/ui/button";
+import "../Global.css";
+import { fetchNui } from "../utils/fetchNui";
 
 export function ListExample() {
   const onClickSession = (modelSelected: string) => {
